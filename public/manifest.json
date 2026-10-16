@@ -1,0 +1,17 @@
+{
+  "name": "VidyaNow - Instant Home Tutors",
+  "short_name": "VidyaNow",
+  "description": "On-demand home tutoring in 45 minutes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
